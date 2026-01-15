@@ -1,0 +1,26 @@
+
+{
+  "short_name": "BatteryCore",
+  "name": "BatteryCore Pro: AI Monitor",
+  "description": "Professional battery health monitoring and AI-powered optimization insights.",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3103/3103463.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3103/3103463.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#030712",
+  "background_color": "#030712",
+  "orientation": "portrait",
+  "scope": "/",
+  "id": "/"
+}
